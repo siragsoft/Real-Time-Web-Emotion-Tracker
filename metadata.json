@@ -1,0 +1,7 @@
+{
+  "name": "Real-Time Web Emotion Tracker",
+  "description": "A real-time web application that tracks and visualizes users' emotions while they browse a simulated webpage. It uses a webcam to detect emotions and generates an emotional heatmap overlay to provide insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
